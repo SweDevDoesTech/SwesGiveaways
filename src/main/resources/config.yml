@@ -1,0 +1,9 @@
+giveaways:
+  # How many giveaways there can be. (Default: 5)
+  max-giveaways: 5
+  # How many giveaways one player can start. (Default: 1)
+  giveaways-started-per-player: 1
+  # How many giveaways one player can enter. (Default: 1)
+  giveaways-entered-per-player: 1
+  # Default giveaway expiration time. (Default: 10m)
+  default-expiration-time: 10m

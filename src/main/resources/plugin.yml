@@ -1,0 +1,4 @@
+name: SwesGiveaways
+version: '${project.version}'
+main: dev.swedev.swesgiveaways.Plugin
+api-version: 1.19
